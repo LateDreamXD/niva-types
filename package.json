@@ -1,0 +1,22 @@
+{
+  "name": "@latedream/niva-types",
+  "version": "0.9",
+  "description": "非官方 Niva(next) 类型定义",
+  "main": "",
+  "types": "types/niva.d.ts",
+  "exports": {
+    ".": "./types/niva.d.ts",
+    "./next": "./types/niva_next.d.ts"
+  },
+  "keywords": [
+    "niva",
+    "niva-next",
+    "types"
+  ],
+  "author": "LateDreamXD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LateDreamXD/niva-types.git"
+  },
+  "license": "UNLICENSED"
+}
