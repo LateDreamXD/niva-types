@@ -1,6 +1,6 @@
 {
   "name": "@latedream/niva-types",
-  "version": "0.9",
+  "version": "0.9.0",
   "description": "非官方 Niva(next) 类型定义",
   "main": "",
   "types": "types/niva.d.ts",
